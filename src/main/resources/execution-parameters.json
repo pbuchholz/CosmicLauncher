@@ -1,0 +1,16 @@
+[
+	{
+		"toExecutableMapping": {
+			"executable-name": "CopyDirectory"
+		},
+		"parameter-name": "src-dir",
+		"parameter-value": "/home/pbuchholz/development/test/source/"
+	},
+	{
+		"toExecutableMapping": {
+			"executable-name": "CopyDirectory"
+		},
+		"parameter-name": "dest-dir",
+		"parameter-value": "/home/pbuchholz/development/test/destination/"
+	}
+]
